@@ -6,7 +6,7 @@
 title: Smart Currency
 email: info@llama.vn
 description: 'Currency: Smart converter'
-url: "http://apps.llama.vn/currency" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://apps.llama.vn" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
 logo: ./assets/images/logo.png
 languages: ["en"]
