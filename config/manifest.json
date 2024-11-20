@@ -1,0 +1,11 @@
+{
+  "name": "Currency",
+  "short_name": "Currency",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Currency: Smart converter.",
+  "scope": "/",
+  "theme_color": "#efeeff",
+  "background_color": "#efeeff"
+}

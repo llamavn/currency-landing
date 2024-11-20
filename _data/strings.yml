@@ -1,0 +1,15 @@
+app:
+  screenshots: Screenshots
+  description: Description
+  featured: Featured in
+
+footer:
+  links:
+    - title: Home
+      url: /
+    - title: Privacy Policy
+      url: /privacy
+    - title: Terms of Service
+      url: /terms
+    - title: Contact Us
+      url: /contact-us
